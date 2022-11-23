@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Notknuckles",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NotKnuckles_Assets",
+	"position": [
+		-480,
+		-630
+	],
+	"healthicon": "plant",
+	"flip_x": false,
+	"healthbar_colors": [
+		138,
+		19,
+		43
+	],
+	"camera_position": [
+		70,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

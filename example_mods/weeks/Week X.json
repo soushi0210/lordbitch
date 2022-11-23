@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"fate-xiyarent",
+			"lordx",
+			[
+				100,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"static",
+		"lp",
+		"ohboy"
+	],
+	"storyName": "Remix By Xiyarent",
+	"weekName": "Week X",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
